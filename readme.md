@@ -1,6 +1,6 @@
 # Hi there <img src="wave.gif" width=33>
 
-I'm Hemanth Gurram,Currently Pursuing Btech in computer science with major in AI @[IIIT Kancheepuram](https://www.iiitdm.ac.in/).
+I’m Hemanth Gurram, a Computer Science graduate from IIITDM Kancheepuram with a specialization in Artificial Intelligence. @[IIIT Kancheepuram](https://www.iiitdm.ac.in/).
 My Area of interests:
 Artificial Intelligence
 Feel free to connect with me here:
